@@ -1,0 +1,26 @@
+{
+  "name": "capacity-analysis",
+  "version": "1.0.0",
+  "description": "technical assessement for prometheus group 8/20/18",
+  "main": "capacity-analysis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "capacity-analysis": "capacity-analysis.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonhcarr/tech_assessment.git"
+  },
+  "author": "Jason Carr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonhcarr/tech_assessment/issues"
+  },
+  "homepage": "https://github.com/jasonhcarr/tech_assessment#readme",
+  "devDependencies": {
+    "@types/node": "^10.7.1",
+    "typescript": "^3.0.1"
+  }
+}
